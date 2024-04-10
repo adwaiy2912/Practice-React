@@ -10,6 +10,7 @@ The repository is organized into multiple directories, each representing a diffe
 -  essentials-DeepDive: Goes deeper into advanced React topics and techniques.
 -  essentials-Project: Created a tic-tac-toe game focusing on applying learned concepts in a real-world scenario.
 -  styling-components: Explores different methods and libraries for styling React components.
+-  debugging: Practicing debugging, covering common issues with the help of debugging tools and best practices
 
 ## About the Course
 
